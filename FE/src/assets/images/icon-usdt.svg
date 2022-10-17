@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="42" viewBox="0 0 44 42">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.839" y1="0.087" x2="0.292" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3db190"/>
+      <stop offset="1" stop-color="#1a8b63"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21656" data-name="Group 21656" transform="translate(-3690 1206)">
+    <g id="Group_21374" data-name="Group 21374" transform="translate(-344 1299)">
+      <rect id="Rectangle_4990" data-name="Rectangle 4990" width="44" height="42" rx="5" transform="translate(4034 -2505)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="usdt-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95769" transform="translate(3695.735 -1202.165)">
+      <path id="Path_35124" data-name="Path 35124" d="M19.444,17.636v0c-.124.009-.766.048-2.2.048-1.142,0-1.946-.034-2.229-.048v0c-4.4-.193-7.679-.959-7.679-1.875s3.282-1.681,7.679-1.877v2.99c.287.02,1.111.069,2.248.069,1.365,0,2.049-.057,2.177-.068V13.887c4.388.2,7.662.961,7.662,1.875s-3.274,1.68-7.662,1.874m0-4.06V10.9h6.123V6.819H8.9V10.9h6.123v2.675C10.042,13.8,6.3,14.789,6.3,15.97s3.742,2.166,8.719,2.4V26.94h4.426V18.363c4.968-.228,8.7-1.214,8.7-2.393s-3.733-2.165-8.7-2.394"/>
+      <path id="Path_35125" data-name="Path 35125" d="M19.444,17.636v0c-.124.009-.766.048-2.2.048-1.142,0-1.946-.034-2.229-.048v0c-4.4-.193-7.679-.959-7.679-1.875s3.282-1.681,7.679-1.877v2.99c.287.02,1.111.069,2.248.069,1.365,0,2.049-.057,2.177-.068V13.887c4.388.2,7.662.961,7.662,1.875s-3.274,1.68-7.662,1.874m0-4.06V10.9h6.123V6.819H8.9V10.9h6.123v2.675C10.042,13.8,6.3,14.789,6.3,15.97s3.742,2.166,8.719,2.4V26.94h4.426V18.363c4.968-.228,8.7-1.214,8.7-2.393s-3.733-2.165-8.7-2.394" fill="#fff"/>
+    </g>
+  </g>
+</svg>

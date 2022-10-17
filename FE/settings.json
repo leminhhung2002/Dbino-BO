@@ -1,0 +1,7 @@
+{
+    "BASE_URL": "https://dbino.trade",
+    "BASE_URL_SOCKET": "wss://dbino.trade:2096",
+    "BASE_URL_SOCKET_SYS": "wss://dbino.trade:2087",
+	"BASE_URL_SOCKET_NAP": "wss://dbino.trade:2083",
+	"BASE_URL_SOCKET_NOTIFY": "wss://dbino.trade:2053"
+}
